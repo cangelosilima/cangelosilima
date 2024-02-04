@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">Experienced software developer with a 16-year track record, 14 of which were dedicated to the dynamic landscape of banking technology. Proficient in .NET and C#, I am passionate about programming and thrive on continuous learning. Currently pursuing advanced topics in software architecture, I am committed to staying at the forefront of innovation. My enthusiasm for cutting-edge technologies led me to earn a master's degree in AI, specializing in computer vision. I bring a wealth of expertise and a forward-thinking approach to every project.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cangelosilima&label=Profile%20views&color=0e75b6&style=flat" alt="cangelosilima" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cangelosilima" alt="cangelosilima" /></a> </p>
-
 - 🔭 I’m currently working on **restaurant API for post-degree**
 
 - 🌱 I’m currently learning **Software Architecture and .net advanced topics**
