@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">Experienced software developer with a 16-year track record, 14 of which were dedicated to the dynamic landscape of banking technology. Proficient in .NET and C#, I am passionate about programming and thrive on continuous learning. Currently pursuing advanced topics in software architecture, I am committed to staying at the forefront of innovation. My enthusiasm for cutting-edge technologies led me to earn a master's degree in AI, specializing in computer vision. I bring a wealth of expertise and a forward-thinking approach to every project.</h3>
 
-- 🔭 I’m currently working on **restaurant API for post-degree**
+- 🔭 I’m currently working on **restaurant API for a post-degree project**
 
 - 🌱 I’m currently learning **Software Architecture and .net advanced topics**
 
