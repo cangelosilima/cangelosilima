@@ -16,6 +16,14 @@ Database catalog and investigation tooling for SQL Server and Oracle. Tracks dat
 
 A .NET job scheduling and execution platform with recurring schedules, retry policies, execution controls, and audit logging.
 
+### [TLDR Hub](https://github.com/cangelosilima/TLDR)
+
+Practical configuration guides, cheat sheets, and boilerplates for developer environments, covering Windows, Linux, WSL, and GitHub Codespaces.
+
+### [Brazilian Structured Note](https://github.com/brazil-fintech/brazilian-structured-note)
+
+Technical documentation and a .NET and React booking platform for Brazilian structured notes (COEs). Uses configurable payoff definitions to drive validation, dynamic forms, and SQL Server storage.
+
 ## Technical toolkit
 
 - **Backend and data:** C#, .NET, SQL Server, Redis
