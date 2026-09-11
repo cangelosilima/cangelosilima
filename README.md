@@ -1,10 +1,13 @@
 # Victor
 
-**Software developer | C# and .NET | Banking technology**
+**Technology Leader | Software Architecture | Capital Markets | C# / .NET**
 
-I build backend systems and engineering tools with C# and .NET. I have 20+ years of experience in software development, including 16 years in banking technology.
+I'm Victor, a technology leader and software engineer with 20+ years in software development, including 16 years in banking technology.
+Currently leading engineering initiatives across structured products, fixed income, and regulatory platforms. My experience includes platform modernization, distributed systems, and integration across trading, risk, and finance. Combining technical leadership and mentoring with practical development in C# and .NET. 
 
 I hold a master's degree in artificial intelligence, specializing in computer vision. My work and technical interests span software architecture, database tooling, and automation.
+
+My public projects explore database tooling, financial platforms, automation, and developer productivity.
 
 ## Selected projects
 
